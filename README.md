@@ -17,7 +17,11 @@ Esta práctica implementa en Python diferentes tipos de algoritmos de búsqueda 
 - `run.py`: Incluye la impresión por consola de los resultados.
 
 ## Tabla Comparativa
-![Tabla Comparativa de Algoritmos de Búsqueda]()
+![Tabla Comparativa de Algoritmos de Búsqueda](1.png)
+![Tabla Comparativa de Algoritmos de Búsqueda](2.png)
+![Tabla Comparativa de Algoritmos de Búsqueda](3.png)
+![Tabla Comparativa de Algoritmos de Búsqueda](4.png)
+![Tabla Comparativa de Algoritmos de Búsqueda](5.png)
 
 ## Recursos Utilizados
 Se han empleado recursos de video tutoriales y material proporcionado por la asignatura, así como herramientas de desarrollo de software, algunos de estos recursos son:
